@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 图片批量压缩工具 ImageMagick"
+title: "Linux图片批量压缩工具ImageMagick"
 date: 2022-02-24
 tag: Linux
 ---
